@@ -8,21 +8,69 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
-    tools:context="com.aula51.bqtoguideproject.MainActivity">
-
-    <EditText
-        android:id="@+id/et_valor"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
-    <Button
-        android:id="@+id/btn_enviar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Enviar"/>
+    tools:context=".Activities.MainActivity">
 
     <TextView
-        android:id="@+id/tv_resultado"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/titulo_categorias"
+        android:textSize="30sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="40dp"/>
+
+    <Button
+        android:id="@+id/btn_parquesnaturales"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/parques_naturales"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary"/>
+
+    <Button
+        android:id="@+id/btn_parquesartificiales"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/parques_artificiales"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary"/>
+
+    <Button
+        android:id="@+id/btn_centroscomerciales"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/centros_comerciales"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary"/>
+
+    <Button
+        android:id="@+id/btn_plazas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/plazas"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary"/>
+
+    <Button
+        android:id="@+id/btn_restaurantes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/restaurantes"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary"/>
+
+    <Button
+        android:id="@+id/btn_realidadaumentada"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/realidad_aumentada"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary"/>
 </LinearLayout>

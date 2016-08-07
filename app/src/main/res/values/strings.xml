@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">BqtoGuideProject</string>
+    <string name="parques_naturales">Parques Naturales</string>
+    <string name="parques_artificiales">Parques Artificiales</string>
+    <string name="centros_comerciales">Centros Comerciales</string>
+    <string name="plazas">Plazas</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="realidad_aumentada">Realidad Aumentada</string>
+    <string name="titulo_categorias">¿Qué te interesa ver?</string>
+    <string name="title_activity_lista_sitios">ListaSitios</string>
+    <string name="nombre_sitio">Nombre del sitio</string>
+    <string name="guardar">Guardar</string>
 </resources>
