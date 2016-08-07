@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "22414340750",
-    "firebase_url": "https://bqtoguideproject.firebaseio.com",
-    "project_id": "bqtoguideproject",
-    "storage_bucket": "bqtoguideproject.appspot.com"
+    "project_number": "408698217632",
+    "firebase_url": "https://bqtoguideproject-e32ae.firebaseio.com",
+    "project_id": "bqtoguideproject-e32ae",
+    "storage_bucket": "bqtoguideproject-e32ae.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:22414340750:android:9dae314eb8fc4a5f",
+        "mobilesdk_app_id": "1:408698217632:android:799718a6d78889ed",
         "android_client_info": {
-          "package_name": "com.aula51.BqtoGuideProject"
+          "package_name": "com.aula51.bqtoguideproject"
         }
       },
       "oauth_client": [
         {
-          "client_id": "22414340750-vddqfnr0k9ap5u3533tjmvu3mo6ph7e2.apps.googleusercontent.com",
+          "client_id": "408698217632-pim02rmsi0binimho0rmusinj20ismn7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyClPsDd0poWpixN2lqtjfc55jlF0ZAQsSk"
+          "current_key": "AIzaSyDdMg7l7IVx0qtxiZ_oPvIMv8TJRkXD_kM"
         }
       ],
       "services": {
